@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "index.js",
   "dependencies": {
-    "highcharts": "6.0.3",
+    "highcharts": "8.0.0",
     "re-resizable": "4.11.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
