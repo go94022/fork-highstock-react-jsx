@@ -1,0 +1,25 @@
+{
+  "name": "highstock-react-jsx-example",
+  "version": "0.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "highcharts": "6.0.3",
+    "re-resizable": "4.11.0",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-jsx-highcharts": "2.0.3",
+    "react-jsx-highstock": "2.0.3",
+    "styled-components": "4.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
